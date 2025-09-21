@@ -1,0 +1,11 @@
+{
+    "asset": "3222017f1196794fbb52a29e930543f5",
+    "fileName": "01996246-3c3f-742c-95d3-a5466b46df54.pose.json",
+    "prompt": "robot dance",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 215441847,
+    "w3CTraceId": "296ac333015dd434197a411f32a18b75",
+    "isTrimmed": false
+}

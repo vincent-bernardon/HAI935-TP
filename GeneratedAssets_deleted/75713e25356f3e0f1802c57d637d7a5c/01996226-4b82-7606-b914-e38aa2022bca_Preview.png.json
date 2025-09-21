@@ -1,0 +1,11 @@
+{
+    "asset": "75713e25356f3e0f1802c57d637d7a5c",
+    "fileName": "01996226-4b82-7606-b914-e38aa2022bca_Preview.png",
+    "prompt": "PCB",
+    "negativePrompt": "",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "modelName": "Unity Texture2D",
+    "customSeed": 209952988,
+    "w3CTraceId": "59a1465a59ddf3deea9a3d5c1d87e6ea",
+    "refinementMode": "Generation"
+}

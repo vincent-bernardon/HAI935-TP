@@ -1,0 +1,20 @@
+{
+    "asset": "4fb21ec4e6ac678578913db31adf612b",
+    "fileName": "0199622c-e7af-72c8-9334-ab52f7beb730.jpg",
+    "prompt": "Generate a high-resolution texture of a vibrant gradient sky. The gradient should transition smoothly from deep\ndeep Blue at the bottom to bright green and soft purple in the middle, fading into a light golden yellow at the top. The\noverall tone should evoke a warm, serene sunset atmosphere with a soft glow effect. Ensure the colors are vivid and\nwell-blended, with no harsh lines or artifacts",
+    "negativePrompt": "blurry, mathis duban",
+    "model": "94c4260f-b988-40e7-b3d3-435b9f449bd0",
+    "modelName": "Flux.1 Dev",
+    "customSeed": -1,
+    "w3CTraceId": "dbc0b3a6443248537e8a2a8f2e2cbb02",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

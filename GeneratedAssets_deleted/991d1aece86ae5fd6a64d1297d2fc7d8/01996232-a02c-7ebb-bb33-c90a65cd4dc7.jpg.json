@@ -1,0 +1,20 @@
+{
+    "asset": "991d1aece86ae5fd6a64d1297d2fc7d8",
+    "fileName": "01996232-a02c-7ebb-bb33-c90a65cd4dc7.jpg",
+    "prompt": "rubber, scratch, sparkels",
+    "negativePrompt": "",
+    "model": "94c4260f-b988-40e7-b3d3-435b9f449bd0",
+    "modelName": "Flux.1 Dev",
+    "customSeed": -1,
+    "w3CTraceId": "2465862a9f21fc3fd2c4605a9b9190c9",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

@@ -1,0 +1,20 @@
+{
+    "asset": "991d1aece86ae5fd6a64d1297d2fc7d8",
+    "fileName": "01996234-d3fa-7d93-9509-cb3a894f3985.jpg",
+    "prompt": "silicium rock",
+    "negativePrompt": "",
+    "model": "fa6e0327-dd80-4b48-865f-5a3aa03f82b8",
+    "modelName": "Flux.1 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "78c1dd4148044f3dda8d6f832fe0f362",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

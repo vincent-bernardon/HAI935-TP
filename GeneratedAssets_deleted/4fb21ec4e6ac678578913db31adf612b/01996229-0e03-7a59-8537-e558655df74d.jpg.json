@@ -1,0 +1,20 @@
+{
+    "asset": "4fb21ec4e6ac678578913db31adf612b",
+    "fileName": "01996229-0e03-7a59-8537-e558655df74d.jpg",
+    "prompt": "A vibrant gradient sky with warm tones, featuring hues of orange, pink, and yellow blending seamlessly. The texture should evoke a serene sunset atmosphere with soft transitions between colors.",
+    "negativePrompt": "",
+    "model": "94c4260f-b988-40e7-b3d3-435b9f449bd0",
+    "modelName": "Flux.1 Dev",
+    "customSeed": -1,
+    "w3CTraceId": "3ca27bab4ebfa53be4b9a62e5218653d",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}
